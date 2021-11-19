@@ -1,4 +1,4 @@
-FROM quay.io/quarkus/ubi-quarkus-mandrel:21.0-java11
+FROM quay.io/quarkus/ubi-quarkus-mandrel:21.3.0.0-Final-java11
 USER root
 
 # Downloading and installing Maven
